@@ -1,0 +1,1 @@
+Palindrome_number.rb finds whether the given number is palindrome or not
