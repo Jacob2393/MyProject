@@ -3,9 +3,9 @@
 3.Type command "git init" and enter. It will initialise git repot in local folder
 4.Config git using command "git config --global user.email "you@example.com"" and " git config --global user.name "Your Name""
 5.Add file using the command "git add fileName.ext"
-6.Commit files using the command "git commint -m "any_name""
+6.Commit files using the command "git commit -m "any_name""
 7.Generate ssh key using the command "ssh-keygen -t rsa"
 8.Configure the key in github.com
-9.Link your online repot with local using the command "git remote set-url origin https://github.com/Jacob2393/MyProject.git"
+9.Link your online repot with local using the command "git remote set-url origin https://github.com/Jacob2393/MyProject"
 10.Push the file using the command "git push -u origin master"
 
