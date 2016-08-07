@@ -9,3 +9,8 @@
 9.Link your online repot with local using the command "git remote set-url origin https://github.com/Jacob2393/MyProject"
 10.Push the file using the command "git push -u origin master"
 
+To add the modification:
+git add fileName.txt
+git commit -m "any_name"
+git remote set-url origin "path-name"
+git push -u origin master
